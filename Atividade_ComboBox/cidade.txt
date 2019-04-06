@@ -1,0 +1,35 @@
+﻿Belo Horizonte - MG
+Juiz de Fora - MG
+Mariana - MG
+Ipatinga - MG
+Ouro Preto - MG
+
+Campinas - SP
+Jundiaí - SP
+Santos - SP
+Guarulhos - SP
+Barueri - SP
+
+Niterói - RJ
+São Gonçalo - RJ
+Angra dos Reis - RJ
+Nova Iguaçú - RJ
+Rio de Janeiro - RJ
+
+Porto Alegre - RS
+Canoas - RS
+São Leopoldo - RS
+Novo Hamburgo - RS
+Gramado - RS
+
+Florianópolis - SC
+Joinville - SC
+Blumenau - SC
+Balneário Camboriú - SC
+Chapecó - SC
+
+Londrina - PR
+Maringá - PR
+Foz do Iguaçú - PR
+Curitiba - PR
+Cascavel - PR

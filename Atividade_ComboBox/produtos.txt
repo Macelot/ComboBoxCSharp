@@ -1,0 +1,7 @@
+﻿Abacate
+Banana
+Maçã
+Manga
+Pera
+Laranja
+Uva
